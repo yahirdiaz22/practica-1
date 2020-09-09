@@ -6,7 +6,8 @@ namespace primera
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("mi programacion!");
+            Console.WriteLine("HOLA FRIEND Y VOLVIMOS A SER COMPAÑEROS (DEJA DE SER TAN NEGATIVO !");
+            Console.ReadKey();
         }
     }
 }
